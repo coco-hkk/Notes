@@ -2,9 +2,9 @@
 
 # 宝藏工具
 
-|   gh   |    W    |   L   |   M   |    A    |  $   |
-| :----: | :-----: | :---: | :---: | :-----: | :--: |
-| github | Windows | Linux | MacOS | Android | 付费 |
+|   gh   |    W    |   L   |   M   |    A    |       $       |
+| :----: | :-----: | :---: | :---: | :-----: | :-----------: |
+| github | Windows | Linux | MacOS | Android | Freemium/付费 |
 
 平替付费软件的开源网站：
 
